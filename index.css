@@ -326,14 +326,13 @@ html {
   @media (max-width: 480px) {
       .header {
         flex-direction: column;
-        /* background-color: red; */
+    
       }
 
       .nav-one {
         width: 80vw;
         flex-direction: column;
         align-items: center;
-        /* background-color: blue; */
       }
     
       .nav-two {
